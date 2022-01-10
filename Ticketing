@@ -1,0 +1,57 @@
+Tugas Day 3 - Ticketing
+
+Soal 1
+Jira, Trello, dan Youtrack merupakan software yang penggunaannya dapat membantu kita dalam menjalankan suatu project secara sistematis dan 
+memudahkan kita membagi tugas-tugas yang ada ketika bekerja dengan tim.
+
+Jira
+Jira memiliki banyak fitur yang membuat penggunanya mendapatkan keuntungan untuk mengelola suatu project secara sistematis, diantaranya :
+1. Task Assignment : fitur ini dilengkapi dengan user interface mengenai workflow yang dijalankan
+2. Scrum & Kanban boards : fitur ini memudahkan suatu tim untuk melakukan brainstroming.
+3. Roadmaps : fitur ini memberikan anggota tim pengetahuan tentang gambaran project secara utuh
+4. Reporting : Jira memberikan fitur ini dengan tampilan yang menarik, sehingga mempermudah team leader mengetahui hasilnya
+
+* Kelebihan
+1. adanya templat untuk mempermudah pemberian tugas
+2. dukungan komunitas dan pelatihan yang mumpuni
+3. Mudah digunakan
+
+* Kekurangan
+1. Dukungan penggunaan website yang lambat
+2. masih adanya error pada fitur-fitur baru
+3. Harga yang kurang terjangkau
+
+Trello
+Dalam penggunaannya bersama tim, trello menghadirkan beberapa fitur yang sangat membantu dalam pekerjaan tim membangun sebuah proyek
+1. Boards : Memuat berbagai informasi project secara lengkap
+2. Cards : Menampilkan tugas dan hal-hal yang harus dilakukan atau sekedar diingat
+3. Lists : Merupakan wadah bagi cards agar tetap rapi sesuai perkembangan project yang berjalan
+
+* Kelebihan
+1. Penggunaan fleksibel
+2. Checklist dalam satu tempat
+
+
+* Kekurangan
+1. Hanya dapat diakses dengan jaringan yang stabil
+2. Pengaturan tugas semakin sulit apabila daftar tugas semakin banyak
+
+
+Youtrack
+Memiliki desain visual yang bagus, pemuatan yang lebih cepat, sederhana
+
+* Kelebihan
+1. Mudah diatur
+2. Harga yang terjangkau
+
+* Kekurangan
+1. Tidak memiliki fitur selengkap Jira
+
+Soal 2 . Pilih 2 mana yang paling mudah penggunaannya
+- Jira dan Trello
+
+Soal 3. Pilih Mana yang paling kompleks saat digunakan menurutmu
+- Trello
+
+Soal 4 . Pilih mana yang paling mirip dengan ticketing tools Sev-2
+- Trello
